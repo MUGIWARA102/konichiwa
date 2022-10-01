@@ -4,7 +4,7 @@
 
 #print the sum
 
-x=5
-y=3
-sum=x+y
+firstnumber = input("enter first number : ")
+secondnumber = input("enter second number: ")
+sum = int(firstnumber)+int(secondnumber)
 print("the answer is : " , sum)
